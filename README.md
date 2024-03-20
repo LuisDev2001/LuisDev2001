@@ -41,3 +41,7 @@ Describe cómo utilizar tu proyecto aquí.
 Si tienes preguntas o sugerencias, contáctame a través de [correo electrónico] o [sitio web].
 
 ¡Gracias por usar este proyecto! 🚀
+
+## Technologies
+- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
+- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
