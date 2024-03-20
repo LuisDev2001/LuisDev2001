@@ -41,3 +41,6 @@ Describe cómo utilizar tu proyecto aquí.
 Si tienes preguntas o sugerencias, contáctame a través de [correo electrónico] o [sitio web].
 
 ¡Gracias por usar este proyecto! 🚀
+
+## Hobbies
+- Dancing: ...
