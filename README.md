@@ -32,7 +32,7 @@ Mi nombre es Luis Quispe Rios, soy de Lima, Perú, y tengo 22 años. Soy un apas
 ## Contacto
 
 - 📧 Puedes contactarme a través de mi correo electrónico: [luisqrja@gmail.com].
-- 🌐 Visita mi sitio web personal: [https://luisdev2001porfolio.netlify.app/].
+- 🌐 Visita mi sitio web personal: [https://luisdev2001.vercel.app/].
 
 ¡Estoy emocionado de conectar y colaborar contigo en el emocionante mundo del desarrollo de software!
 
