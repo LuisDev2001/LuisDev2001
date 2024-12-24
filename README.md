@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub!
 
-Mi nombre es Luis Quispe Rios, soy de Lima, Perú, y tengo 22 años. Soy un apasionado del desarrollo de software, especialmente enamorado de JavaScript y completamente fascinado por Vue.js. Me encanta trabajar con tecnologías frontend y crear experiencias de usuario asombrosas.
+Mi nombre es Luis Quispe Rios, soy de Lima, Perú, y tengo 23 años. Soy un apasionado del desarrollo de software, especialmente enamorado de JavaScript y completamente fascinado por Vue.js. Me encanta trabajar con tecnologías frontend y crear experiencias de usuario asombrosas.
 
 ## Acerca de mí
 
