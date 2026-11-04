@@ -7,7 +7,7 @@
 📍 Lima, Perú · Actualmente en **Talana**
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://luisquispe.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/luisdev01/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/luis-aldair-quispe-rios-8b6096161/)
 [![Blog](https://img.shields.io/badge/El_Rincón_de_Vue-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://elrincondevue.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisqrja@gmail.com)
 
@@ -56,6 +56,6 @@ Desarrollador frontend especializado en **Vue.js y arquitectura frontend**. Desd
 
 **¿Tu equipo está evolucionando su frontend?** Conversemos sobre Vue, arquitectura y el próximo desafío de tu producto.
 
-[luisquispe.com](https://luisquispe.com) · [LinkedIn](https://www.linkedin.com/in/luisdev01/) · luisqrja@gmail.com
+[luisquispe.com](https://luisquispe.com) · [LinkedIn](https://www.linkedin.com/in/luis-aldair-quispe-rios-8b6096161/) · luisqrja@gmail.com
 
 </div>
