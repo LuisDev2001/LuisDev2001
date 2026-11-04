@@ -1,39 +1,61 @@
-# ¡Hola, Mundo! 👋
+<div align="center">
 
-¡Bienvenido a mi perfil de GitHub!
+# Hola, soy Luis Quispe 👋
 
-Mi nombre es Luis Quispe Rios, soy de Lima, Perú, y tengo 25 años. Soy un apasionado del desarrollo de software, especialmente enamorado de JavaScript y completamente fascinado por Vue.js. Me encanta trabajar con tecnologías frontend y crear experiencias de usuario asombrosas.
+### Frontend Senior & Tech Lead · Vue.js
 
-## Acerca de mí
+📍 Lima, Perú · Actualmente en **Talana**
 
-- 💻 Actualmente estoy enfocado en mi carrera como desarrollador frontend, explorando nuevas técnicas y herramientas en Vue.js.
-- 🌱 Siempre estoy buscando formas de aprender y crecer en mi campo.
-- 👨‍💻 Disfruto enfrentando retos y resolviendo problemas complejos.
-- 🚀 Me encanta hacer comunidad y ayudar a otros desarrolladores. Creo firmemente que al enseñar y ayudar, también aprendo y crezco como profesional.
+[![Portafolio](https://img.shields.io/badge/Portafolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://luisquispe.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/luisdev01/)
+[![Blog](https://img.shields.io/badge/El_Rincón_de_Vue-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://elrincondevue.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisqrja@gmail.com)
 
-## Tecnologías que me gustan
+</div>
 
-- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
-- Vue.js ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
-- HTML ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
-- CSS ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
-- SASS ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
-- Tailwind CSS ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-- Pug ![Pug](https://img.shields.io/badge/-Pug-A86454?logo=pug&logoColor=white&style=flat)
-- LESS ![LESS](https://img.shields.io/badge/-LESS-1D365D?logo=less&logoColor=white&style=flat)
-- Git ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-- Vite ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
-- Webpack ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat)
-- Pinia ![Pinia](https://img.shields.io/badge/-Pinia-42B883?logo=pinia&logoColor=white&style=flat)
-- Vue Router ![Vue Router](https://img.shields.io/badge/-Vue_Router-42B883?logo=vue.js&logoColor=white&style=flat)
-- Docker ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-- TanStack Query ![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF3366?style=flat)
+---
 
-## Contacto
+## Sobre mí
 
-- 📧 Puedes contactarme a través de mi correo electrónico: [luisqrja@gmail.com].
-- 🌐 Visita mi sitio web personal: [https://luisdev2001.vercel.app/].
+Desarrollador frontend especializado en **Vue.js y arquitectura frontend**. Desde 2021 hago evolucionar el frontend de una plataforma SaaS en Talana, donde hoy sumo liderazgo técnico como **Tech Lead**. Me gusta entender los problemas, compartir lo que aprendo y construir soluciones que un equipo pueda hacer suyas.
 
-¡Estoy emocionado de conectar y colaborar contigo en el emocionante mundo del desarrollo de software!
+- 🧱 **Arquitectura con propósito:** microfrontends, Web Components y Screaming Architecture.
+- 🎨 **Un lenguaje compartido:** librerías de componentes, Storybook y sistemas de diseño.
+- 🔁 **Evolución sostenible:** migraciones de Vue 2 a Vue 3 y de Vue CLI a Vite.
+- ✍️ **Comunidad:** creador de [El Rincón de Vue](https://elrincondevue.com), un blog de Vue.js en español.
+- 🎂 **Dato curioso:** nací el 12 de setiembre, que en años bisiestos es el Día del Programador.
 
-¡Gracias por visitar mi perfil! 😊
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,tailwind,vite,pinia,vitest,react,graphql,firebase,git&perline=12" alt="Vue, Nuxt, TypeScript, JavaScript, Tailwind CSS, Vite, Pinia, Vitest, React, GraphQL, Firebase, Git" />
+</p>
+
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![Module Federation](https://img.shields.io/badge/Module_Federation-1F2937?style=flat-square&logo=webpack&logoColor=8DD6F9)
+![Web Components](https://img.shields.io/badge/Web_Components-29ABE2?style=flat-square&logo=webcomponentsdotorg&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Pinia Colada](https://img.shields.io/badge/Pinia_Colada-FFD859?style=flat-square&logo=vuedotjs&logoColor=black)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![VeeValidate](https://img.shields.io/badge/VeeValidate-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
+
+## Proyectos destacados
+
+| Proyecto | Qué es | Stack |
+| --- | --- | --- |
+| [**El Rincón de Vue**](https://elrincondevue.com) | Blog sobre Vue.js en español. | Nuxt · Storyblok |
+| [**microfrontend-vue-host**](https://github.com/LuisDev2001/microfrontend-vue-host) | Host de microfrontends con Vue y Module Federation. [Demo](https://host-app-mfe.vercel.app) | Vue · Vite · Module Federation |
+| [**DevFest Lima 2025**](https://github.com/LuisDev2001/dev-fest-lima-2025-web-components-vue3) | Demo en vivo de mi charla: Web Components con Vue 3. | Vue · Vite (library mode) |
+| [**vue-tip-element**](https://github.com/LuisDev2001/vue-tip-element) | Web Component de tips de Vue usado en mi blog. | Vue · TypeScript |
+| [**finger-clash**](https://github.com/LuisDev2001/finger-clash) | Juego de dedos (estilo *Chopsticks*) contra la CPU o en local. [Jugar](https://finger-clash.vercel.app) | Vue · TypeScript · Vite |
+| [**dragon-ball-characters**](https://github.com/LuisDev2001/dragon-ball-characters) | Práctica de estado remoto con Pinia Colada. | Vue · Pinia Colada |
+
+---
+
+<div align="center">
+
+**¿Tu equipo está evolucionando su frontend?** Conversemos sobre Vue, arquitectura y el próximo desafío de tu producto.
+
+[luisquispe.com](https://luisquispe.com) · [LinkedIn](https://www.linkedin.com/in/luisdev01/) · luisqrja@gmail.com
+
+</div>
